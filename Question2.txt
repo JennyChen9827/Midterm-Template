@@ -1,0 +1,10 @@
+This is a template file to allow for grading through the app
+
+Variable definition: 5 points
+Reading the values of array A from an input file: 10 points
+Writing the values of array B into an output file: 10 points
+Loop that inspects all values of A: 20 points
+Loop that inspects the duplicate of the current values: 25 points
+If statements that checks the equality of two values: 10 points
+Storing a singular value in A in array B: 10 points
+Correct handling of the last occurrence of a duplicate value: 10 points 
