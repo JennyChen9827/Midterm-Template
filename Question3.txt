@@ -1,0 +1,9 @@
+This is a template file to allow for grading through the app
+
+Variable definition and initializing: 5 points
+Computing the expression of the general term: 20 points
+Computing the recurrence relation between the current term and the next term: 20 points
+Calculating the sum: 10 points
+Displaying the sum: 5 points
+Loop that computes n terms of the sum: 20 points
+Finding the smallest sum of three values: 20 points
