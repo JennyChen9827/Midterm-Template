@@ -1,0 +1,10 @@
+This is a template file to allow for grading through the app
+
+Variable definition: 5 points
+Reading the first string (s): 5 points
+Reading the second and third strings (str1, str2): 5 points
+Display the result: 5 points
+Loop that inspects s to find the presence of str1: 20 points
+For loop that checks the presence of str1 in s once the first character of str1 was found in s: 20 points
+Copying the unmatched characters from s into the result: 20 points
+Copying str2 into the result upon finding an occurrence of str1 in s: 20 points 
